@@ -1,0 +1,6 @@
+apiVersion: zalando.org/v1
+kind: Database
+metadata:
+  name: mysql-db
+spec:
+  type: mysql
